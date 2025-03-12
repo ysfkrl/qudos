@@ -9,6 +9,8 @@ In simple terms, the software can simulate:
 - Two-Photon Excitation  
 - The SUPER Scheme  
 - Stimulated Two-Photon Excitation  
+- Chirp laser pulses for Adiabatic Rapid Passage
+
 
 ---
 
