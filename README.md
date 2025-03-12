@@ -50,7 +50,7 @@ This project is licensed under the **Creative Commons Attribution 4.0 Internatio
 Visit [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 To give proper attribution, please cite the original work as follows:  
-**QUDOS: Quantum Occupation Dynamics Simulation** [2025], [DOI: 10.5281/zenodo.15009009]
+Karli, Y., Bracht, T., Sahin, M. E., Weihs, G., & Reiter, D. (2025). QUDOS: Quantum Occupation Dynamics Simulation - Multi-Pulse and Multi-Level System. Zenodo. https://doi.org/10.5281/zenodo.15009009
 
 ---
 
